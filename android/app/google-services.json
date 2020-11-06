@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767825088843",
+    "firebase_url": "https://emergency-healthcare-app.firebaseio.com",
+    "project_id": "emergency-healthcare-app",
+    "storage_bucket": "emergency-healthcare-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767825088843:android:7149c2321efb7a29cc18ce",
+        "android_client_info": {
+          "package_name": "app.emergencyhealthcare.emergencyhealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767825088843-0akmphv0qt5jesbjikg961rh4e5gk5ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_0vI5Unm5IM5TtFrcDNXELiTNulK28g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767825088843-0akmphv0qt5jesbjikg961rh4e5gk5ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
